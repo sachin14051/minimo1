@@ -1,0 +1,4 @@
+.footer-section{background-color:red;
+padding:20px;}
+
+ .navbar li a{display:inline-block;} 
